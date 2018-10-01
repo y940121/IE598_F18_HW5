@@ -200,8 +200,8 @@ plt.plot(gamatest,acc_kPCA_logi_test,linewidth=2.0)
 plt.show()
 
 
-print("My name is Sa Yang")
-print("My NetID is: say2")
+print("My name is Zhaocheng Ying")
+print("My NetID is: zying4")
 print("I hereby certify that I have read the University policy on Academic Integrity and that I am not in violation.")
 
 
